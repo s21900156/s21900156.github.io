@@ -1,12 +1,12 @@
 ---
 layout: default
-title:  {{ page.title }}
+title:  "github.io 블로그 첫 글"
 excerpt: "github.io 블로그 첫 글 작성해봅니다."
 categories:
   - Blog
 tags:
   - Blog
-last_modified_at: {{ page.last_modified_at }}
+last_modified_at: 2022-05-01 T08:06:00-05:00
 ---
 김예준
 =============================
