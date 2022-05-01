@@ -17,4 +17,4 @@ last_modified_at: 2022-05-01 T08:06:00-05:00
 + 경기도 **부천**에 살고 있습니다.   
 + 이메일 주소: ye450450@gmail.com   
 + [github주소]  (https://github.com/s21900156)
-<img src="\봄사진.jpg" style="zoom: 33%;" />
+<img src="봄사진.jpg" style="zoom: 33%;" />
